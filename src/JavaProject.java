@@ -26,16 +26,5 @@ public class JavaProject {
             }
         }
 
-
-//        LinkedList <Member> members= new LinkedList<>();
-//        Member member= new SingleClubMember('S',0,"Андрей",900.0,1);
-//        members.add(member);
-//        member = new MultiClubMember('M',1,"Alex",-1.0,100);
-//        members.add(member);
-//
-//        for (Member el: members) {
-//            System.out.println(el.toString());
-//            System.out.println(el.getClass());
-//        }
     }
 }
